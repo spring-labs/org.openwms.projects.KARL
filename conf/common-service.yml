@@ -10,4 +10,4 @@ spring:
     generate-ddl: true
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://ec2-23-21-249-224.compute-1.amazonaws.com:5432/dc36e3ssk6klpp
+    url: jdbc:postgresql:KARLDB
