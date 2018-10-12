@@ -7,3 +7,13 @@ security:
 owms:
   routing:
     common-service-name: common-service
+
+spring:
+  jpa:
+    database: postgresql
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql:KARLDB
