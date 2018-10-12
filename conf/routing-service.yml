@@ -17,3 +17,5 @@ spring:
   datasource:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql:KARLDB
+    username: KARL
+    password: KARL
