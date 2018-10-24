@@ -9,7 +9,7 @@ owms:
       queue-name: res
       exchange-mapping: res.*
     osip:
-      sync-field: ZZZ
+      sync-field: "###"
     server:
       port: 30001
       so-timeout: 300000
