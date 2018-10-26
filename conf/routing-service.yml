@@ -7,6 +7,9 @@ security:
 owms:
   routing:
     common-service-name: common-service
+  partners:
+    sps01: tcpip-conveyor
+    sps02: tcpip-palett1
 
 spring:
   jpa:
@@ -22,3 +25,4 @@ spring:
     url: jdbc:postgresql:KARLDB
     username: KARL
     password: KARL
+

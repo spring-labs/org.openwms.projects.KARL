@@ -2,9 +2,9 @@ owms:
   tenant: KARL
   driver:
     res:
-      routing-key: tcpip-palett1
+      routing-key: tcpip-conveyor
     server:
-      port: 30003
+      port: 30001
     client:
       hostname: localhost
-      port: 30004
+      port: 30002
