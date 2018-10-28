@@ -3,6 +3,7 @@ owms:
   driver:
     res:
       routing-key: tcpip-palett1
+      queue-name: res-palett1
     server:
       port: 30003
     client:

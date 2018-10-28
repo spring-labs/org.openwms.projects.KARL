@@ -3,6 +3,7 @@ owms:
   driver:
     res:
       routing-key: tcpip-conveyor
+      queue-name: res-conveyor
     server:
       port: 30001
     client:
