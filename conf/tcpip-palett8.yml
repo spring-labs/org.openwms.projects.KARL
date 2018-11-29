@@ -1,9 +1,9 @@
 owms:
   driver:
     res:
-      routing-key: tcpip-palett1
+      routing-key: tcpip-palett8
     server:
-      port: 30001
+      port: 30008
     client:
       hostname: localhost
-      port: 30011
+      port: 30018

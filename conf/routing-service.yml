@@ -5,8 +5,15 @@ owms:
   routing:
     common-service-name: common-service
   partners:
-    sps01: tcpip-conveyor
-    sps02: tcpip-palett1
+    sps01: tcpip-palett1
+    sps02: tcpip-palett2
+    sps03: tcpip-palett3
+    sps04: tcpip-palett4
+    sps05: tcpip-palett5
+    sps06: tcpip-palett6
+    sps07: tcpip-palett7
+    sps08: tcpip-palett8
+    sps09: tcpip-conveyor
 
 spring:
   jpa:
@@ -19,7 +26,7 @@ spring:
       hibernate.temp.use_jdbc_metadata_defaults: false
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql:KARLDB
+    url: jdbc:postgresql:RBDB
     username: KARL
     password: KARL
 

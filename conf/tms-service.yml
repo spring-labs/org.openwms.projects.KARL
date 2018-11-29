@@ -9,6 +9,6 @@ spring:
       ddl-auto: update
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql:KARLDB
+    url: jdbc:postgresql:RBDB
     username: KARL
     password: KARL

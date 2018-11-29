@@ -1,11 +1,9 @@
 owms:
-  tenant: KARL
   driver:
     res:
       routing-key: tcpip-conveyor
-      queue-name: res-conveyor
     server:
-      port: 30001
+      port: 30009
     client:
       hostname: localhost
-      port: 30002
+      port: 30019
