@@ -1,5 +1,7 @@
 owms:
   driver:
+    err:
+      routing-key: tcpip-palett4
     res:
       routing-key: tcpip-palett4
     server:

@@ -1,5 +1,7 @@
 owms:
   driver:
+    err:
+      routing-key: tcpip-conveyor
     res:
       routing-key: tcpip-conveyor
     server:
