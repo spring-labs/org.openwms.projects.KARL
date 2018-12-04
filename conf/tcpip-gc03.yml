@@ -1,0 +1,11 @@
+owms:
+  driver:
+    err:
+      routing-key: tcpip-gc03
+    res:
+      routing-key: tcpip-gc03
+    server:
+      port: 30102
+    client:
+      hostname: localhost
+      port: 30112
