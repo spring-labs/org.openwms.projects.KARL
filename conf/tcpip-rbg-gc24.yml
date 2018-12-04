@@ -1,9 +1,9 @@
 owms:
   driver:
     err:
-      routing-key: tcpip-palett4
+      routing-key: tcpip-rbg-gc24
     res:
-      routing-key: tcpip-palett4
+      routing-key: tcpip-rbg-gc24
     server:
       port: 30004
     client:

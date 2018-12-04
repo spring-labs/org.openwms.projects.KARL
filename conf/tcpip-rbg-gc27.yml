@@ -1,9 +1,9 @@
 owms:
   driver:
     err:
-      routing-key: tcpip-palett7
+      routing-key: tcpip-rbg-gc27
     res:
-      routing-key: tcpip-palett7
+      routing-key: tcpip-rbg-gc27
     server:
       port: 30007
     client:

@@ -1,9 +1,9 @@
 owms:
   driver:
     err:
-      routing-key: tcpip-palett8
+      routing-key: tcpip-rbg-gc28
     res:
-      routing-key: tcpip-palett8
+      routing-key: tcpip-rbg-gc28
     server:
       port: 30008
     client:

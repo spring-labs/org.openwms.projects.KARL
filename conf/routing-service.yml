@@ -5,15 +5,17 @@ owms:
   routing:
     common-service-name: common-service
   partners:
-    sps01: tcpip-palett1
-    sps02: tcpip-palett2
-    sps03: tcpip-palett3
-    sps04: tcpip-palett4
-    sps05: tcpip-palett5
-    sps06: tcpip-palett6
-    sps07: tcpip-palett7
-    sps08: tcpip-palett8
-    sps09: tcpip-conveyor
+    gc02: tcpip-gc02
+    gc03: tcpip-gc03
+    gc51: tcpip-gc51
+    gc21: tcpip-gc21
+    gc22: tcpip-gc22
+    gc23: tcpip-gc23
+    gc24: tcpip-gc24
+    gc25: tcpip-gc25
+    gc26: tcpip-gc26
+    gc27: tcpip-gc27
+    gc28: tcpip-gc28
 
 spring:
   jpa:

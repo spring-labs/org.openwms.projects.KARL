@@ -1,9 +1,9 @@
 owms:
   driver:
     err:
-      routing-key: tcpip-palett1
+      routing-key: tcpip-rbg-gc21
     res:
-      routing-key: tcpip-palett1
+      routing-key: tcpip-rbg-gc21
     server:
       port: 30001
     client:

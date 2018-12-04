@@ -1,9 +1,9 @@
 owms:
   driver:
     err:
-      routing-key: tcpip-palett6
+      routing-key: tcpip-rbg-gc26
     res:
-      routing-key: tcpip-palett6
+      routing-key: tcpip-rbg-gc26
     server:
       port: 30006
     client:
