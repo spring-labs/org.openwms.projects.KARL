@@ -4,6 +4,25 @@ spring:
     username: KARL
     password: KARL
     driver-class-name: org.postgresql.Driver
+  cloud:
+    gateway:
+      routes:
+      - id: routing-service
+        uri: http://routing-service
+        predicates:
+        - Path=/tms
+      - id: receiving
+        uri: http://receiving
+        predicates:
+        - Path=/orders/receiving
+      - id: shipping
+        uri: http://shipping
+        predicates:
+        - Path=/orders/receiving
+      - id: picking
+        uri: http://picking
+        predicates:
+        - Path=/orders/receiving
 
 server:
   context-path: /
