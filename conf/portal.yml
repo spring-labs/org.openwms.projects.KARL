@@ -25,4 +25,4 @@ spring:
         - Path=/orders/receiving
 
 server:
-  context-path: /
+  context-path: /portal
