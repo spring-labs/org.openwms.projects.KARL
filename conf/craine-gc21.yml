@@ -1,0 +1,6 @@
+owms:
+  events:
+    common:
+      tu:
+        moved: tu.event.moved.HRL_/CONV/IN__/0000/0011
+        exchange-name: common.tu
