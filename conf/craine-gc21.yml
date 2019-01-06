@@ -1,4 +1,6 @@
 owms:
+  craine:
+    aisle-location-group: FACH1
   events:
     common:
       tu:
