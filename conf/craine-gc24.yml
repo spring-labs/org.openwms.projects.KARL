@@ -1,0 +1,11 @@
+owms:
+  craine:
+    aisle-location-group: FACH4
+  events:
+    common:
+      tu:
+        moved: tu.event.moved.HRL_/CONV/IN__/0000/0014
+        exchange-name: common.tu
+
+server:
+  port: ${PORT:8224}
