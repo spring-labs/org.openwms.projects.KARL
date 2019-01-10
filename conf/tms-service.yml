@@ -12,6 +12,6 @@ spring:
       ddl-auto: validate
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql:RBDB
+    url: jdbc:postgresql://openwms-postgresql.automatic-warehouse.svc.cluster.local:5432/RBDB
     username: KARL
     password: KARL

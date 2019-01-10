@@ -28,7 +28,7 @@ spring:
       hibernate.temp.use_jdbc_metadata_defaults: false
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql:RBDB
+    url: jdbc:postgresql://openwms-postgresql.automatic-warehouse.svc.cluster.local:5432/RBDB
     username: KARL
     password: KARL
 
