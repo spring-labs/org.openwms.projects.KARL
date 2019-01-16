@@ -43,7 +43,7 @@ owms:
   events:
     common:
       tu:
-        moved: tu.event.moved.HRL_/CONV/IN__/0000/0011:tu.event.moved.HRL_/CONV/IN__/0000/0012:tu.event.moved.HRL_/CONV/IN__/0000/0013:tu.event.moved.HRL_/CONV/IN__/0000/0014:tu.event.moved.HRL_/CONV/IN__/0000/0015:tu.event.moved.HRL_/CONV/IN__/0000/0016:tu.event.moved.HRL_/CONV/IN__/0000/0017:tu.event.moved.HRL_/CONV/IN__/0000/0018
+        moved: tu.event.moved.#
         exchange-name: common.tu
 
 server:
