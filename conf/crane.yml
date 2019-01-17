@@ -3,42 +3,42 @@ owms:
   - name: gc21
     infeed: HRL_/CONV/IN__/0000/0011
     outfeed: HRL_/CONV/OUT_/0000/0001
-    lam: HRL_/RBG/LAM_/0000/0001
+    lam: HRL_/RBG_/LAM_/0000/0001
     aisle-location-group: FACH1
   - name: gc22
     infeed: HRL_/CONV/IN__/0000/0012
     outfeed: HRL_/CONV/OUT_/0000/0002
-    lam: HRL_/RBG/LAM_/0000/0002
+    lam: HRL_/RBG_/LAM_/0000/0002
     aisle-location-group: FACH2
   - name: gc23
     infeed: HRL_/CONV/IN__/0000/0013
     outfeed: HRL_/CONV/OUT_/0000/0003
-    lam: HRL_/RBG/LAM_/0000/0003
+    lam: HRL_/RBG_/LAM_/0000/0003
     aisle-location-group: FACH3
   - name: gc24
     infeed: HRL_/CONV/IN__/0000/0014
     outfeed: HRL_/CONV/OUT_/0000/0004
-    lam: HRL_/RBG/LAM_/0000/0004
+    lam: HRL_/RBG_/LAM_/0000/0004
     aisle-location-group: FACH4
   - name: gc25
     infeed: HRL_/CONV/IN__/0000/0015
     outfeed: HRL_/CONV/OUT_/0000/0005
-    lam: HRL_/RBG/LAM_/0000/0005
+    lam: HRL_/RBG_/LAM_/0000/0005
     aisle-location-group: FACH5
   - name: gc26
     infeed: HRL_/CONV/IN__/0000/0016
     outfeed: HRL_/CONV/OUT_/0000/0006
-    lam: HRL_/RBG/LAM_/0000/0006
+    lam: HRL_/RBG_/LAM_/0000/0006
     aisle-location-group: FACH6
   - name: gc27
     infeed: HRL_/CONV/IN__/0000/0017
     outfeed: HRL_/CONV/OUT_/0000/0007
-    lam: HRL_/RBG/LAM_/0000/0007
+    lam: HRL_/RBG_/LAM_/0000/0007
     aisle-location-group: FACH7
   - name: gc28
     infeed: HRL_/CONV/IN__/0000/0018
     outfeed: HRL_/CONV/OUT_/0000/0008
-    lam: HRL_/RBG/LAM_/0000/0008
+    lam: HRL_/RBG_/LAM_/0000/0008
     aisle-location-group: FACH8
   events:
     common:
