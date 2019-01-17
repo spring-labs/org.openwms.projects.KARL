@@ -43,7 +43,7 @@ owms:
   events:
     common:
       tu:
-        moved: tu.event.moved.#
+        routing-key: tu.event.moved.*
         exchange-name: common.tu
 
 server:
