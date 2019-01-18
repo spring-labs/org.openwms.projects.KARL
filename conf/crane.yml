@@ -5,6 +5,9 @@ owms:
     outfeed: HRL_/CONV/OUT_/0000/0001
     lam: HRL_/RBG_/LAM_/0000/0001
     aisle-location-group: FACH1
+    controller: RBG_
+    controllerNumber: 01
+    warehouseNumber: 0900
   - name: gc22
     infeed: HRL_/CONV/IN__/0000/0012
     outfeed: HRL_/CONV/OUT_/0000/0002
@@ -20,6 +23,9 @@ owms:
     outfeed: HRL_/CONV/OUT_/0000/0004
     lam: HRL_/RBG_/LAM_/0000/0004
     aisle-location-group: FACH4
+    controller: RBG_
+    controllerNumber: 04
+    warehouseNumber: 0900
   - name: gc25
     infeed: HRL_/CONV/IN__/0000/0015
     outfeed: HRL_/CONV/OUT_/0000/0005
@@ -40,11 +46,6 @@ owms:
     outfeed: HRL_/CONV/OUT_/0000/0008
     lam: HRL_/RBG_/LAM_/0000/0008
     aisle-location-group: FACH8
-  events:
-    common:
-      tu:
-        routing-key: tu.event.moved.HRL_/CONV/IN__/0000/001#
-        exchange-name: common.tu
 
 server:
   port: ${PORT:8221}
