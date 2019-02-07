@@ -4,8 +4,10 @@ owms:
       routing-key: tcpip-gc03
     res:
       routing-key: tcpip-gc03
-    server:
-      port: 30102
-    client:
-      hostname: localhost
-      port: 30112
+    connections:
+      tcpProperties:
+      - name: GC2
+        serverport: 30102
+        clienthostname: localhost
+        clientport: 30112
+        identifyby: "03"

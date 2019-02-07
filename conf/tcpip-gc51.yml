@@ -4,8 +4,10 @@ owms:
       routing-key: tcpip-gc51
     res:
       routing-key: tcpip-gc51
-    server:
-      port: 30103
-    client:
-      hostname: localhost
-      port: 30113
+    connections:
+      tcpProperties:
+      - name: GC3
+        serverport: 30103
+        clienthostname: localhost
+        clientport: 30113
+        identifyby: "51"
