@@ -10,4 +10,4 @@ owms:
         serverport: 30101
         clienthostname: localhost
         clientport: 30111
-        identifyby: "02"
+        identifyby: "01"
