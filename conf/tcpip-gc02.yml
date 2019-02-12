@@ -14,5 +14,40 @@ owms:
       - name: RBG1
         serverport: 30121
         clienthostname: localhost
-        clientport: 30131
+        clientport: 30221
         identifyby: "RBG_"
+      - name: RBG2
+        serverport: 30122
+        clienthostname: localhost
+        clientport: 30222
+        identifyby: "22"
+      - name: RBG3
+        serverport: 30123
+        clienthostname: localhost
+        clientport: 30223
+        identifyby: "23"
+      - name: RBG4
+        serverport: 30124
+        clienthostname: localhost
+        clientport: 30224
+        identifyby: "24"
+      - name: RBG5
+        serverport: 30125
+        clienthostname: localhost
+        clientport: 30225
+        identifyby: "25"
+      - name: RBG6
+        serverport: 30126
+        clienthostname: localhost
+        clientport: 30226
+        identifyby: "26"
+      - name: RBG7
+        serverport: 30127
+        clienthostname: localhost
+        clientport: 30227
+        identifyby: "27"
+      - name: RBG8
+        serverport: 30128
+        clienthostname: localhost
+        clientport: 30228
+        identifyby: "28"
