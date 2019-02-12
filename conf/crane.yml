@@ -4,7 +4,7 @@ owms:
     infeed: HRL_/CONV/IN__/0000/0011
     infeed-crane: PAWH/0021/IN__/0000/0000
     outfeed: HRL_/CONV/OUT_/0000/0001
-    lam: HRL_/RBG_/LAM_/0000/0001
+    lam: PAWH/0021/LAM_/0000/0000
     crane-location-group: RBG1
     aisle-location-group: FACH1
     controller: RBG_
@@ -14,7 +14,7 @@ owms:
     infeed: HRL_/CONV/IN__/0000/0012
     infeed-crane: PAWH/0022/IN__/0000/0000
     outfeed: HRL_/CONV/OUT_/0000/0002
-    lam: HRL_/RBG_/LAM_/0000/0002
+    lam: PAWH/0022/LAM_/0000/0000
     crane-location-group: RBG2
     aisle-location-group: FACH2
     controller: RBG_
@@ -24,7 +24,7 @@ owms:
     infeed: HRL_/CONV/IN__/0000/0013
     infeed-crane: PAWH/0023/IN__/0000/0000
     outfeed: HRL_/CONV/OUT_/0000/0003
-    lam: HRL_/RBG_/LAM_/0000/0003
+    lam: PAWH/0023/LAM_/0000/0000
     crane-location-group: RBG3
     aisle-location-group: FACH3
     controller: RBG_
@@ -34,7 +34,7 @@ owms:
     infeed: HRL_/CONV/IN__/0000/0014
     infeed-crane: PAWH/0024/IN__/0000/0000
     outfeed: HRL_/CONV/OUT_/0000/0004
-    lam: HRL_/RBG_/LAM_/0000/0004
+    lam: PAWH/0024/LAM_/0000/0000
     crane-location-group: RBG4
     aisle-location-group: FACH4
     controller: RBG_
@@ -44,7 +44,7 @@ owms:
     infeed: HRL_/CONV/IN__/0000/0015
     infeed-crane: PAWH/0025/IN__/0000/0000
     outfeed: HRL_/CONV/OUT_/0000/0005
-    lam: HRL_/RBG_/LAM_/0000/0005
+    lam: PAWH/0025/LAM_/0000/0000
     crane-location-group: RBG5
     aisle-location-group: FACH5
     controller: RBG_
@@ -54,7 +54,7 @@ owms:
     infeed: HRL_/CONV/IN__/0000/0016
     infeed-crane: PAWH/0026/IN__/0000/0000
     outfeed: HRL_/CONV/OUT_/0000/0006
-    lam: HRL_/RBG_/LAM_/0000/0006
+    lam: PAWH/0026/LAM_/0000/0000
     crane-location-group: RBG6
     aisle-location-group: FACH6
     controller: RBG_
@@ -64,7 +64,7 @@ owms:
     infeed: HRL_/CONV/IN__/0000/0017
     infeed-crane: PAWH/0027/IN__/0000/0000
     outfeed: HRL_/CONV/OUT_/0000/0007
-    lam: HRL_/RBG_/LAM_/0000/0007
+    lam: PAWH/0027/LAM_/0000/0000
     crane-location-group: RBG7
     aisle-location-group: FACH7
     controller: RBG_
@@ -74,7 +74,7 @@ owms:
     infeed: HRL_/CONV/IN__/0000/0018
     infeed-crane: PAWH/0028/IN__/0000/0000
     outfeed: HRL_/CONV/OUT_/0000/0008
-    lam: HRL_/RBG_/LAM_/0000/0008
+    lam: PAWH/0028/LAM_/0000/0000
     crane-location-group: RBG8
     aisle-location-group: FACH8
     controller: RBG_
