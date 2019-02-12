@@ -9,7 +9,7 @@ owms:
     aisle-location-group: FACH1
     controller: RBG_
     controllerNumber: 21
-    warehouseNumber: 0900
+    warehouseNumber: "0900"
   - name: gc22
     infeed: HRL_/CONV/IN__/0000/0012
     infeed-crane: PAWH/0022/IN__/0000/0000
@@ -19,7 +19,7 @@ owms:
     aisle-location-group: FACH2
     controller: RBG_
     controllerNumber: 22
-    warehouseNumber: 0900
+    warehouseNumber: "0900"
   - name: gc23
     infeed: HRL_/CONV/IN__/0000/0013
     infeed-crane: PAWH/0023/IN__/0000/0000
@@ -29,7 +29,7 @@ owms:
     aisle-location-group: FACH3
     controller: RBG_
     controllerNumber: 23
-    warehouseNumber: 0900
+    warehouseNumber: "0900"
   - name: gc24
     infeed: HRL_/CONV/IN__/0000/0014
     infeed-crane: PAWH/0024/IN__/0000/0000
@@ -39,7 +39,7 @@ owms:
     aisle-location-group: FACH4
     controller: RBG_
     controllerNumber: 24
-    warehouseNumber: 0900
+    warehouseNumber: "0900"
   - name: gc25
     infeed: HRL_/CONV/IN__/0000/0015
     infeed-crane: PAWH/0025/IN__/0000/0000
@@ -49,7 +49,7 @@ owms:
     aisle-location-group: FACH5
     controller: RBG_
     controllerNumber: 25
-    warehouseNumber: 0900
+    warehouseNumber: "0900"
   - name: gc26
     infeed: HRL_/CONV/IN__/0000/0016
     infeed-crane: PAWH/0026/IN__/0000/0000
@@ -59,7 +59,7 @@ owms:
     aisle-location-group: FACH6
     controller: RBG_
     controllerNumber: 26
-    warehouseNumber: 0900
+    warehouseNumber: "0900"
   - name: gc27
     infeed: HRL_/CONV/IN__/0000/0017
     infeed-crane: PAWH/0027/IN__/0000/0000
@@ -69,7 +69,7 @@ owms:
     aisle-location-group: FACH7
     controller: RBG_
     controllerNumber: 27
-    warehouseNumber: 0900
+    warehouseNumber: "0900"
   - name: gc28
     infeed: HRL_/CONV/IN__/0000/0018
     infeed-crane: PAWH/0028/IN__/0000/0000
@@ -79,7 +79,7 @@ owms:
     aisle-location-group: FACH8
     controller: RBG_
     controllerNumber: 28
-    warehouseNumber: 0900
+    warehouseNumber: "0900"
 
 server:
   port: ${PORT:8221}
