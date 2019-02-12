@@ -11,3 +11,8 @@ owms:
         clienthostname: localhost
         clientport: 30111
         identifyby: "02"
+      - name: RBG1
+        serverport: 30121
+        clienthostname: localhost
+        clientport: 30131
+        identifyby: "RBG_"
