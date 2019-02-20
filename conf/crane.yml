@@ -3,7 +3,7 @@ owms:
   - name: gc21
     infeed: HRL_/CONV/IN__/0000/0011
     infeed-crane: PAWH/0021/IN__/0000/0000
-    outfeed: HRL_/CONV/OUT_/0000/0001
+    outfeed: PAWH/0021/OUT_/0000/0000
     lam: PAWH/0021/LAM_/0000/0000
     crane-location-group: RBG1
     aisle-location-group: FACH1
@@ -13,7 +13,7 @@ owms:
   - name: gc22
     infeed: HRL_/CONV/IN__/0000/0012
     infeed-crane: PAWH/0022/IN__/0000/0000
-    outfeed: HRL_/CONV/OUT_/0000/0002
+    outfeed: PAWH/0022/OUT_/0000/0000
     lam: PAWH/0022/LAM_/0000/0000
     crane-location-group: RBG2
     aisle-location-group: FACH2
@@ -23,7 +23,7 @@ owms:
   - name: gc23
     infeed: HRL_/CONV/IN__/0000/0013
     infeed-crane: PAWH/0023/IN__/0000/0000
-    outfeed: HRL_/CONV/OUT_/0000/0003
+    outfeed: PAWH/0023/OUT_/0000/0000
     lam: PAWH/0023/LAM_/0000/0000
     crane-location-group: RBG3
     aisle-location-group: FACH3
@@ -33,7 +33,7 @@ owms:
   - name: gc24
     infeed: HRL_/CONV/IN__/0000/0014
     infeed-crane: PAWH/0024/IN__/0000/0000
-    outfeed: HRL_/CONV/OUT_/0000/0004
+    outfeed: PAWH/0024/OUT_/0000/0000
     lam: PAWH/0024/LAM_/0000/0000
     crane-location-group: RBG4
     aisle-location-group: FACH4
@@ -43,7 +43,7 @@ owms:
   - name: gc25
     infeed: HRL_/CONV/IN__/0000/0015
     infeed-crane: PAWH/0025/IN__/0000/0000
-    outfeed: HRL_/CONV/OUT_/0000/0005
+    outfeed: PAWH/0025/OUT_/0000/0000
     lam: PAWH/0025/LAM_/0000/0000
     crane-location-group: RBG5
     aisle-location-group: FACH5
@@ -53,7 +53,7 @@ owms:
   - name: gc26
     infeed: HRL_/CONV/IN__/0000/0016
     infeed-crane: PAWH/0026/IN__/0000/0000
-    outfeed: HRL_/CONV/OUT_/0000/0006
+    outfeed: PAWH/0026/OUT_/0000/0000
     lam: PAWH/0026/LAM_/0000/0000
     crane-location-group: RBG6
     aisle-location-group: FACH6
@@ -63,7 +63,7 @@ owms:
   - name: gc27
     infeed: HRL_/CONV/IN__/0000/0017
     infeed-crane: PAWH/0027/IN__/0000/0000
-    outfeed: HRL_/CONV/OUT_/0000/0007
+    outfeed: PAWH/0027/OUT_/0000/0000
     lam: PAWH/0027/LAM_/0000/0000
     crane-location-group: RBG7
     aisle-location-group: FACH7
@@ -73,7 +73,7 @@ owms:
   - name: gc28
     infeed: HRL_/CONV/IN__/0000/0018
     infeed-crane: PAWH/0028/IN__/0000/0000
-    outfeed: HRL_/CONV/OUT_/0000/0008
+    outfeed: PAWH/0028/OUT_/0000/0000
     lam: PAWH/0028/LAM_/0000/0000
     crane-location-group: RBG8
     aisle-location-group: FACH8
