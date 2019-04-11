@@ -23,3 +23,5 @@ spring:
     username: KARL
     password: KARL
 
+flowable:
+  database-schema: tmsrtng
