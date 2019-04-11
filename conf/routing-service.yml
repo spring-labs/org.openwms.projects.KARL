@@ -11,7 +11,7 @@ owms:
 spring:
   jpa:
     database: postgresql
-    generate-ddl: false
+    generate-ddl: true
     hibernate:
       ddl-auto: create
     properties:
